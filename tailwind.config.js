@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/defaultTheme');
 export default {
   content: [
     "./index.html",
@@ -26,7 +27,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Open Sans'],
+        sans: ['Open Sans', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: {
