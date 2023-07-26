@@ -8,7 +8,7 @@ export default {
 
   theme: {
     fontSize: {
-      '9xl': '8rem',
+      '9xl': '9rem',
       'xs': '.75rem',
       'sm': '.875rem',
       'tiny': '.875rem',

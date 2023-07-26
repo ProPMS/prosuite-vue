@@ -62,7 +62,7 @@
       <span class="text-2xl text-primary-50">Welcome to ProSuite</span>
       <h1
         class="mb-6 text-xl font-bold tracking-tight text-transparent leading-extra-loose md:text-9xl bg-clip-text bg-gradient-to-br from-blue-50 to-blue-100">
-        Discover <br> the&nbsp;power&nbsp;of Softwares</h1>
+        Discover <br> the&nbsp;power&nbsp;of Software</h1>
       <span class="mb-6 text-sm font-normal md:text-lg text-secondary-50" data-scroll data-scroll-speed="3"
         data-scroll-repeat>
         Every day, our clients are faced with challenges and opportunities.<br class="hidden sm:block">
