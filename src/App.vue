@@ -211,8 +211,6 @@ import Close from './Components/Close.vue'
 
 export default {
   components: {
-    // Head,
-    // Link,
     Book,
     Hero,
     ApplicationLogo,
